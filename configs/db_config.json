@@ -1,0 +1,10 @@
+{
+    "database": {
+      "user": "mdb_admin",
+      "password": "Qwe24865",
+      "dbname": "mdb",
+      "sslmode": "disable",
+      "Port": "25432"
+    }
+  }
+  
